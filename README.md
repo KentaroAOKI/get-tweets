@@ -1,6 +1,6 @@
 # gettweets
 
-Get tweets in real time stream using twitter statuses/filter api.  
+Get tweets in realtime stream using twitter statuses/filter api.  
 https://developer.twitter.com/en/docs/tweets/filter-realtime/api-reference/post-statuses-filter  
 
 ## Installing gettweets.
